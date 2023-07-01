@@ -1,0 +1,5 @@
+com\dockersample\app\controller\StudentController.class
+com\dockersample\app\service\StudentImpl.class
+com\dockersample\app\model\Student.class
+com\dockersample\app\AppApplication.class
+com\dockersample\app\controller\Welcome.class
